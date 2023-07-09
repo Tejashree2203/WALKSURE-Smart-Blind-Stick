@@ -20,3 +20,6 @@ When the user needs help he/she presses the button.
 The microcontroller triggers the GSM module to send message to the registered recipient.
 When user comes in contact with water, the sensor detects and produces the sound using buzzer.
 When the obstacles are detected the signals are sent to microcontroller which indicates the buzzer to make beep.
+
+![Screenshot (167)](https://github.com/Tejashree2203/WALKSURE-Smart-Blind-Stick/assets/99403475/70209615-c2f3-4055-b1c1-54ef451bb1d8)
+
