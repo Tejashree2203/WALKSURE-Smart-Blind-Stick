@@ -14,3 +14,9 @@ __REQUIREMENTS__<br/>
 · Buzzer <br/>
 · Bread Board<br/>
 · Arduino IDE<br/>
+
+__Methodology__<br/>
+When the user needs help he/she presses the button.
+The microcontroller triggers the GSM module to send message to the registered recipient.
+When user comes in contact with water, the sensor detects and produces the sound using buzzer.
+When the obstacles are detected the signals are sent to microcontroller which indicates the buzzer to make beep.
