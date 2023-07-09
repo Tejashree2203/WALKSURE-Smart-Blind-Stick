@@ -3,14 +3,14 @@ There are a number of challenges that humans have no control over. Blindness is 
 
 In this project, a solution is presented in a smart stick with a pair of ultrasonic sensors in order to detect any other obstacles in front of the  user . Furthermore, a water sensor is placed at the bottom of the stick to prevent puddles. And a GSM module is used to send the message to the registered user.
 
-REQUIREMENTS
+__REQUIREMENTS__<br/>
 · Arduino Nano<br/>
-· GSM module-SIM800L
-· LM2596 Step Down Convertor 
-· HC-SR 04 Ultrasonic Sensor
-· Water Sensor
-· Push Button
-· 9v 2a Power Supply 
-· Buzzer 
-· Bread Board
-· Arduino IDE
+· GSM module-SIM800L<br/>
+· LM2596 Step Down Convertor <br/>
+· HC-SR 04 Ultrasonic Sensor<br/>
+· Water Sensor<br/>
+· Push Button<br/>
+· 9v 2a Power Supply <br/>
+· Buzzer <br/>
+· Bread Board<br/>
+· Arduino IDE<br/>
